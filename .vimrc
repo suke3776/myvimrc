@@ -1,4 +1,4 @@
-" my vim settings
+" my vim settings  aaaaaaaa
 " Author: yuya aoki
 "	and Fujie lab members
 
